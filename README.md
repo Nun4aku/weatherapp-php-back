@@ -19,3 +19,7 @@ http://127.0.0.1:8000/api/moscow/update - обновляет с АПИ, заки
     <BR>
 <b>Фронт:</b><BR>   
 https://github.com/Nun4aku/weatherapp-react-front<BR>
+        
+<b>Тесты:</b><BR>   
+/api/moscow -> status 200 <BR> 
+/api/moscow/update -> status 200 <BR>
