@@ -16,6 +16,6 @@ $table->timestamps();<BR>
 Отдавет данные:<BR>
 http://127.0.0.1:8000/api/moscow  - подтягивает из базы<BR>
 http://127.0.0.1:8000/api/moscow/update - обновляет с АПИ, закидывает в базу и отдавет новые данные из базы<BR>
-    
+    <BR>
 <b>Фронт:</b><BR>   
 https://github.com/Nun4aku/weatherapp-react-front
