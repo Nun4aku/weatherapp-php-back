@@ -1,6 +1,8 @@
+<b>Запуск:</b><BR>
 php artisan serv<BR>
 
-Проект на Laravel, тянет тестовые даныне погод с https://samples.openweathermap.org/data/2.5/forecast заносит из в БД<BR>
+<b>Описание:</b><BR>
+Проект на Laravel, тянет тестовые даныне погод с https://samples.openweathermap.org/data/2.5/forecast заносит их в БД<BR>
 
 в БД таблица "moscows" (скачать: https://disk.yandex.ru/d/Nsao33ewAviUTw)<BR>
     имеет структуру  // moscows с s на конце, лол. Ларавель так подставил.
