@@ -13,3 +13,5 @@ $table->timestamps();
 И от давет данные по адресам:
 http://127.0.0.1:8000/api/moscow  - подтягивает из базы
 http://127.0.0.1:8000/api/moscow/update - обновляет с АПИ, закидывает в базу и отдавет новые данные из базы
+
+База данных https://disk.yandex.ru/d/Nsao33ewAviUTw
